@@ -11,6 +11,8 @@
 
 # Release: 
 - Release Version 1.1 is avaliable now [Here](https://github.com/Cracko298/Ice-Station-Z-Name-Plugin/blob/main/plugin.plg?raw=true).
+- As always this plugin is in it's beta/alpha phase. So expect bugs, and issues.
+- And if you want make an issue request in the [Issues Tab](https://github.com/Cracko298/Ice-Station-Z-Name-Plugin/issues).
 
 # Notes:
 - This plugin will *NOT* contain any; Weapon, Server, or Movement Code(s).
