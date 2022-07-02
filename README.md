@@ -9,8 +9,8 @@
 - Messaage Codes.
 
 
-# Release Date?
-- It should release on *07/03/2022*; however it could be delayed for a day or two.
+# Release: 
+- Release Version 1.1 is avaliable now [Here](https://github.com/Cracko298/Ice-Station-Z-Name-Plugin/blob/main/plugin.plg?raw=true).
 
 # Notes:
 - This plugin will *NOT* contain any; Weapon, Server, or Movement Code(s).
