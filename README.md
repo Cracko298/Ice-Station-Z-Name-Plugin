@@ -9,4 +9,4 @@
 - Server Codes.
 
 # Release Date?
-- It should release on *07/03/2022* however it could be delayed.
+- It should release on *07/03/2022*; however it could be delayed for a day or two.
