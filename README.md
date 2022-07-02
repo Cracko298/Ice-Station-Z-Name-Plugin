@@ -14,3 +14,5 @@
 
 # Notes:
 - This plugin will *NOT* contain any; Weapon, Server, or Movement Code(s).
+- Do NOT attempt to edit the Binary Data of the Plugin. (This could result in Save-Data corruption).
+- Do NOT distribute unless proper credit is given to all of the Plugin Creator(s).
